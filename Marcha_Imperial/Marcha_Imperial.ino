@@ -7,7 +7,7 @@
    Curso: Taller de electronica digital y reparacion de computadoras I
    Proyecto: Marcha imperial
    Dev: Hugo Alexander Reyes Veliz -2023132
-   Fecha: 6/15/20023
+   Fecha: 5/16/2023
 */
 
 const int c = 261;
